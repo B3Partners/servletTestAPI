@@ -57,7 +57,7 @@
         <connection>scm:git:git@github.com:B3Partners/servletTestAPI.git</connection>
         <developerConnection>scm:git:git@github.com:B3Partners/servletTestAPI.git</developerConnection>
         <url>https://github.com/B3Partners/servletTestAPI</url>
-      <tag>servletTestAPI-4.2.1</tag>
+      <tag>servletTestAPI-${project.version}</tag>
     </scm>
     <distributionManagement>
         <repository>
